@@ -5,8 +5,8 @@ A curated collection of useful developer libraries and packages across various e
 ## Categories
 
 - [Rust Crates](rust.md) – Useful Rust libraries collected from the community.
-<!-- - [npm Packages](npm.md) – Hand-picked JavaScript/TypeScript packages.
-- [UI Libraries](ui.md) – UI frameworks, components, and tools. -->
+- [npm Packages](npm.md) – Hand-picked JavaScript/TypeScript packages.
+- [UI Libraries](ui.md) – UI frameworks, components, and tools.
 
 
 ## How to Use
